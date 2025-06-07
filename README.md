@@ -36,11 +36,7 @@ Bu projenin temel amacı, öğrencilerin hata düzeltme kodlarını daha iyi anl
 ### 3️⃣ Aynı bit konumuna iki kez hata uygulanırsa sistem veride hata olmadığını bildirir:
 ![Senaryo 3](screenshots/scenario3.png)
 
----
 
-## 📂 Proje Yapısı
-
----
 
 ## ▶️ Kullanım
 
@@ -62,53 +58,5 @@ Bu projenin temel amacı, öğrencilerin hata düzeltme kodlarını daha iyi anl
 - `drawBitRow()` fonksiyonu arayüzdeki kutuları çizmek için kullanılır.
 
 ---
-
-## 📌 Geliştirici Notu
-
-Bu proje, Hamming Kodunu öğrenmek isteyen öğrenciler için sade, anlaşılır ve etkileşimli bir öğrenme aracı olarak tasarlanmıştır. Java dilinde GUI geliştirme pratiği sunarken aynı zamanda bilgi kuramı konularına da katkı sağlar.
-
-**Geliştirici:** Fatih  
-**Tarih:** 07.06.2025
-
----
-
-## 🔗 Bağlantılar
-
-- YouTube Tanıtım Videosu: [İzle](https://www.youtube.com/watch?v=mcgZDYm0jSY&t=106s)
-- Proje GitHub Reposu: *(bağlantıyı buraya ekleyin)*
-
----
-
-> ✨ Geri bildirimleriniz ve yıldızlarınız projeyi daha da geliştirmemize katkı sağlar. Teşekkürler!
-
----
-
-## ▶️ Kullanım
-
-1. Uygulama açıldığında bir veri uzunluğu (8, 16, 32) seçin.
-2. 0 ve 1'lerden oluşan verinizi yazın (örneğin: `11001100`).
-3. **Encode** butonuna basarak Hamming kodunu oluşturun.
-4. **Inject Error** butonuyla hata pozisyonu girin.
-5. **Correct Error** butonuna tıklayarak sistemi test edin.
-
----
-
-## 👨‍💻 Teknik Detaylar
-
-- Parity bitleri kod dizisine 2ⁿ konumlara eklenir.
-- Hamming kodu üretimi sırasında parity bitleri mavi renkle gösterilir.
-- Hatalı bitler kırmızı, düzeltilmiş bitler eski haline döner.
-- `detectError()` fonksiyonu sentetik hata tespitini gerçekleştirir.
-- `encodeHamming()` fonksiyonu parity hesaplarını yapar.
-- `drawBitRow()` fonksiyonu arayüzdeki kutuları çizmek için kullanılır.
-
----
-
-## 📌 Geliştirici Notu
-
-Bu proje, Hamming Kodunu öğrenmek isteyen öğrenciler için sade, anlaşılır ve etkileşimli bir öğrenme aracı olarak tasarlanmıştır. Java dilinde GUI geliştirme pratiği sunarken aynı zamanda bilgi kuramı konularına da katkı sağlar.
-
-> ✨ Geri bildirimleriniz ve yıldızlarınız projeyi daha da geliştirmemize katkı sağlar. Teşekkürler!
-
-
+✨ Geri bildirimleriniz ve yıldızlarınız projeyi daha da geliştirmemize katkı sağlar. Teşekkürler!
 
