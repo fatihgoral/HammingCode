@@ -108,18 +108,6 @@ Bu proje, Hamming Kodunu öğrenmek isteyen öğrenciler için sade, anlaşılı
 
 Bu proje, Hamming Kodunu öğrenmek isteyen öğrenciler için sade, anlaşılır ve etkileşimli bir öğrenme aracı olarak tasarlanmıştır. Java dilinde GUI geliştirme pratiği sunarken aynı zamanda bilgi kuramı konularına da katkı sağlar.
 
-**Geliştirici:** Fatih  
-**Tarih:** 07.06.2025
-
----
-
-## 🔗 Bağlantılar
-
-- YouTube Tanıtım Videosu: [İzle](https://www.youtube.com/watch?v=mcgZDYm0jSY&t=106s)
-- Proje GitHub Reposu: *(bağlantıyı buraya ekleyin)*
-
----
-
 > ✨ Geri bildirimleriniz ve yıldızlarınız projeyi daha da geliştirmemize katkı sağlar. Teşekkürler!
 
 
